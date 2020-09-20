@@ -1,16 +1,16 @@
 # Mito Demo
 
-[![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb)
+[![Launch Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saga-vcs/mito-demo.git/master?urlpath=lab/tree/index.ipynb)
 
 When this repo is deployed on MyBinder.org, this lets a user experiment with Mito version 0.1.8.
 
-## Start JupyterLab after you start your Binder
+## How to use
 
-Do the following:
+Launch a Binder instance by clicking the Binder badge above.
 
-1. Launch a Binder instance (e.g., by clicking the Binder badge)
-2. Replace `tree` at the end of your URL with `lab`.
-3. That's it!
+If you launch a Binder instance through some other process, you may default to the older Jupyter Notebook interface, in which case replace `tree` at the end of your URL with `lab`.
+
+Thats it!
 
 ## Create a Binder link that points to JupyterLab
 
