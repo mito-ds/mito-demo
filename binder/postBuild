@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Rebuild!
-jupyter lab build
+# Rebuild (with the lowest memory options)
+jupyter lab build --dev-build=False --minimize=False
