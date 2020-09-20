@@ -2,8 +2,7 @@
 
 [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/jupyterlab/master?urlpath=lab/tree/index.ipynb)
 
-JupyterLab is packaged with Binder repositories by default. In order to
-run a JupyterLab session, you have two options:
+When this repo is deployed on MyBinder.org, this lets a user experiment with Mito version 0.1.8.
 
 ## Start JupyterLab after you start your Binder
 
