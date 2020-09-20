@@ -1,2 +1,2 @@
 ipywidgets
-mitosheet
+mitosheet==0.1.8
