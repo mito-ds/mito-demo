@@ -1,4 +1,4 @@
 #!/bin/bash
 
-# Install a JupyterLab extension for demonstration purposes
-jupyter labextension install @jupyterlab/geojson-extension jupyterlab-drawio
+# Install the jupyter lab extension manager, as well
+jupyter labextension install @jupyter-widgets/jupyterlab-manager
