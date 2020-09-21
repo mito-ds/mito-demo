@@ -1,6 +1,6 @@
 # Mito Demo
 
-[![Launch Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saga-vcs/mito-demo.git/master?urlpath=lab/tree/example/index.ipynb)
+[![Launch Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/saga-vcs/mito-demo.git/master?urlpath=lab/tree/example/example.ipynb)
 
 When this repo is deployed on MyBinder.org, this lets a user experiment with Mito version 0.1.8.
 
